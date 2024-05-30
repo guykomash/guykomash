@@ -4,7 +4,7 @@
 I am Guy, a Backend Developer recently graduated in Computer Science from Ben Gurion University. 
 
 ### Skills 🤹
-- **Languages:** Python, Node.js (JavaScript / TypeScript), Java, C, C++, HTML, CSS
+- **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
 - **Frameworks and Libraries:** Django, Express.js, React
 - **Databases:**  MongoDB
 - **Tools:** Git, Docker
