@@ -5,7 +5,7 @@ I am Guy, a Backend Developer recently graduated in Computer Science from Ben Gu
 
 ### Skills 🤹
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
-- **Frameworks and Libraries:** Django, Express.js, React
+- **Frameworks and Libraries:** Django,Flask, Express.js, React
 - **Databases:**  MongoDB
 - **Tools:** Git, Docker
 
