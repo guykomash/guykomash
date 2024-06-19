@@ -1,7 +1,7 @@
 # Welcome!👋
 
 ### About Me 🧑‍💻
-I am Guy, a Junior Backend Engineer passionate about buliding scalable applications,
+I am Guy, a Junior Backend Engineer passionate about buliding scalable applications.</br>
 Having recently graduated in Computer Science from Ben Gurion University, I am looking for my next challenge as a Junior Dev! 
 
 ### Skills 🤹
