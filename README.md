@@ -1,7 +1,8 @@
 # Welcome!👋
 
 ### About Me 🧑‍💻
-I am Guy, a Backend Engineer recently graduated in Computer Science from Ben Gurion University. 
+I am Guy, a Junior Backend Engineer passionate about buliding scalable applications,
+Having recently graduated in Computer Science from Ben Gurion University, I am looking for my next challenge as a Junior Dev! 
 
 ### Skills 🤹
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
