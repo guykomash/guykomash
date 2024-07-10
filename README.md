@@ -8,6 +8,7 @@ Having recently graduated in Computer Science from Ben Gurion University, I am l
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
 - **Frameworks and Libraries:** Django,Flask, Express.js, React
 - **Databases:**  MongoDB, MySQL
+- **Messaging** Kafka
 - **Tools:** Git, Docker
 
 ### Contact Me 🤙
