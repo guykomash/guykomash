@@ -1,9 +1,11 @@
 # Welcome!👋
 
 ### About Me
-I am Guy, a Junior Backend Engineer passionate about building a scalable, efficient applications.</br>
+I am Guy, a Junior Full Stack Engineer passionate about building a scalable, efficient applications.</br>
 
 Currnetly learning a lot by working on <i><a href="https://github.com/guykomash/junior-journey">Junior Journey</i></a>: a python microservice project using Django, Flask, Kafka, MySQL dbs, AWS S3, Docker, gRPC.
+
+I have a huge passion for development, learning new technologies and concepts, and collaborating with great people 🙂.
 
 ### Skills
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
