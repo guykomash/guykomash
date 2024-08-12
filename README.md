@@ -9,7 +9,7 @@ I have a huge passion for development, learning new technologies and concepts, a
 
 ### Skills
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
-- **Frameworks and Libraries:** Django,Flask, Express.js, React
+- **Frameworks and Libraries:** Django, Flask, Express.js, React
 - **Databases:**  MongoDB, MySQL
 - **Messaging** Kafka
 - **Tools:** Git, Docker
