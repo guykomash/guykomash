@@ -5,7 +5,7 @@ I am Guy, a Junior Software Engineer passionate about building a scalable, effic
 
 Currnetly learning a lot by working on <i><a href="https://github.com/guykomash/junior-journey">Junior Journey</i></a>: a python microservice project using Django, Flask, Kafka, MySQL dbs, AWS S3, Docker, gRPC.
 
-I have a huge passion for development, learning new technologies and concepts, and collaborating with great people 🙂.
+I have a strong passion for development, learning new technologies and concepts, and collaborating with great people 🙂.
 
 ### Skills
 - **Languages:** Python, TypeScript, JavaScript, Node.js, Java, C, C++, HTML, CSS, SQL
